@@ -10,6 +10,10 @@ Accessify's [Accessible Table Builder](http://accessify.com/tools-and-wizards/ac
 WebAIM's [Color Contrast Checker](https://webaim.org/resources/contrastchecker/)  
 WebAIM's [WAVE Web Accessibility Tool](http://wave.webaim.org)  
 
+Presentation Tools:  
+- Hakim El Hattab's [Reveal.js](http://lab.hakim.se/reveal-js/) makes presentations accessible in various ways, especially if you **use the plug-in below**  
+- Marcy Sutton's [reveal-a11y plugin](https://github.com/marcysutton/reveal-a11y) hides Reveal.js's offscreen slides & improves accessibility for keyboard and screen reader users  
+
 ### accessible prose  
 
 [De-jargonizer](http://scienceandpublic.com)  
