@@ -9,6 +9,7 @@ Links for Writing Better Online
 Accessify's [Accessible Table Builder](http://accessify.com/tools-and-wizards/accessibility-tools/table-builder/) helps build HTML tables  
 WebAIM's [Color Contrast Checker](https://webaim.org/resources/contrastchecker/)  
 WebAIM's [WAVE Web Accessibility Tool](http://wave.webaim.org)  
+[Color Hex Codes](http://www.color-hex.com) isn't strictly an accessibility tool. You can use it to find shades and tints of particular colors, so you can keep your site's theme/feel but with colors that have better contrast.  
 
 Presentation Tools:  
 - Hakim El Hattab's [Reveal.js](http://lab.hakim.se/reveal-js/) makes presentations accessible in various ways, especially if you **use the plug-in below**  
@@ -19,6 +20,8 @@ Presentation Tools:
 [De-jargonizer](http://scienceandpublic.com)  
 [Hemingway Editor](http://www.hemingwayapp.com)  
 [Readable.io](https://readable.io/text/)  
+  
+[HTML special character codes](http://sites.psu.edu/symbolcodes/codehtml/) lists (& guide) from Penn State   
 
 ### markdown, diff, etc tools  
 
