@@ -6,7 +6,7 @@ Links for Writing Better Online
 
 ### a11y  
 
-Accessify's [Accessible Table Builder](http://accessify.com/tools-and-wizards/accessibility-tools/table-builder/)  
+Accessify's [Accessible Table Builder](http://accessify.com/tools-and-wizards/accessibility-tools/table-builder/) helps build HTML tables  
 WebAIM's [Color Contrast Checker](https://webaim.org/resources/contrastchecker/)  
 WebAIM's [WAVE Web Accessibility Tool](http://wave.webaim.org)  
 
@@ -27,7 +27,13 @@ WebAIM's [WAVE Web Accessibility Tool](http://wave.webaim.org)
 
 ### a11y  
 
-WebAIM's [Web Accessibility for Designers](https://webaim.org/resources/designers/)  
+"How To"-style Guides:  
+- WebAIM's [Web Accessibility for Designers](https://webaim.org/resources/designers/)  
+- Mozilla's [Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility) guide  
+
+Explainer-style Guides:  
+- Axess Lab's [Trends that Exclude](https://axesslab.com/trends/)  
+- Axess Lab's [Statistics on Disabilities](https://axesslab.com/statistics-on-disabilities/)  
 
 ### accessible prose  
 
@@ -41,4 +47,4 @@ Programming Historian's [Sustainable Authorship in Plain Text using Pandoc and M
 
 This is mostly just a lightly-annotated set of links to tools and guides about writing well for the web.  
 
-I mostly made this to keep these handy from any computer I find myself using—you're welcome to use it as well.  
+I mostly made this to keep these links handy from any computer I find myself using. You're welcome to use & add to it as well!  
