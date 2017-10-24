@@ -19,7 +19,8 @@ Presentation Tools:
 
 [De-jargonizer](http://scienceandpublic.com)  
 [Hemingway Editor](http://www.hemingwayapp.com)  
-[Readable.io](https://readable.io/text/)  
+[Readable.io](https://readable.io/text/) will calculate readability test scores if you copy & paste in the text. Also explains many of the tests and score results.  
+[Readability Test Tool](https://www.webpagefx.com/tools/read-able/) will calculate readability test scores by url, by direct input/copy & paste, or by adding their link to one of your web pages.  
   
 [HTML special character codes](http://sites.psu.edu/symbolcodes/codehtml/) lists (& guide) from Penn State   
 
@@ -49,6 +50,12 @@ WebAIM's [Writing Clearly and Simply](https://webaim.org/techniques/writing/)
 ### markdown, diff, etc guides  
 
 Programming Historian's [Sustainable Authorship in Plain Text using Pandoc and Markdown](https://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)  
+
+## other lists  
+
+Here are more authoritative & exhaustive lists:  
+- Marcy Sutton's fork of [a11y-resources](https://github.com/marcysutton/a11y-resources) 
+- Or see [Atalan's original](https://github.com/atalan/a11y-resources))  
 
 ## meta  
 
